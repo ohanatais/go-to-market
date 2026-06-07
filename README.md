@@ -6,7 +6,7 @@ Part of the [build-from-zero](https://github.com/ohanatais/build-from-zero) ecos
 
 Most solo builders treat launch as a moment: the day the product goes live. Then they post on LinkedIn, get a hundred likes from friends and colleagues who will never become users, and wonder why nothing happened.
 
-Launch is a campaign and, like any campaign, it requires strategy, sequencing, and an honest understanding of where your first real users actually are — and what it takes to reach them.
+Launch is a campaign and, like any campaign, it requires strategy, sequencing, and an honest understanding of where your first real users actually are and what it takes to reach them.
 
 This repo covers everything between "the product is ready" and "I have users who stay."
 
