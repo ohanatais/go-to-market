@@ -57,7 +57,10 @@ This repo is most useful when you're about to launch or actively preparing for i
 
 The best launches are built over weeks or months before the product is ready — through content, community participation, and relationship-building that happens in the background while you're still building. If you're reading this and you haven't started yet: start the pre-launch work now, in parallel with building.
 
-**Claude Code skills** for each stage will live directly in this repo — one folder per topic, each with its own SKILL.md, references/, and README.md, following the pattern set by [product-thinking](https://github.com/ohanatais/product-thinking) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy). Planned: `launch-strategy` and `first-users`.
+**Claude Code skills** for each stage live directly in this repo — one folder per topic, each with its own SKILL.md, references/, and README.md, following the pattern set by [product-thinking](https://github.com/ohanatais/product-thinking) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy).
+
+- [`launch-strategy`](launch-strategy) — plan a launch as a campaign: channels (Bullseye), pre-launch, launch day, measurement
+- `first-users` — get your first 10 / 50 / 100 by hand, the unscalable way _(in progress)_
 
 ---
 
@@ -65,9 +68,9 @@ The best launches are built over weeks or months before the product is ready —
 
 | Content | Status |
 |---|---|
-| Launch strategy | 📋 Planned |
-| Channels | 📋 Planned |
-| First users | 📋 Planned |
+| Launch strategy | ✅ Skill available in [`launch-strategy`](launch-strategy) |
+| Channels | ✅ Covered within [`launch-strategy`](launch-strategy) (Bullseye framework) |
+| First users | 🔄 In progress |
 
 ---
 
