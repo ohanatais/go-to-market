@@ -57,7 +57,7 @@ This repo is most useful when you're about to launch or actively preparing for i
 
 The best launches are built over weeks or months before the product is ready — through content, community participation, and relationship-building that happens in the background while you're still building. If you're reading this and you haven't started yet: start the pre-launch work now, in parallel with building.
 
-**Claude Code skills** for each stage live in [pm-skills](https://github.com/ohanatais/pm-skills) — specifically `estrategia-de-lancamento` and `primeiros-usuarios`.
+**Claude Code skills** for each stage will live directly in this repo — one folder per topic, each with its own SKILL.md, references/, and README.md, following the pattern set by [product-thinking](https://github.com/ohanatais/product-thinking) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy). Planned: `launch-strategy` and `first-users`.
 
 ---
 
@@ -80,7 +80,7 @@ The best launches are built over weeks or months before the product is ready —
 | [brand-and-copy](https://github.com/ohanatais/brand-and-copy) | Brand identity, tone, copy |
 | [build-with-claude](https://github.com/ohanatais/build-with-claude) | Technical guide for non-technical builders |
 | **go-to-market** | You are here |
-| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills · PT-BR |
+| [pm-skills](https://github.com/ohanatais/pm-skills) | Claude Code skills for product-management day-to-day · PT-BR |
 
 ---
 
