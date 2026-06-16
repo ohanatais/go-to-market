@@ -60,7 +60,7 @@ The best launches are built over weeks or months before the product is ready —
 **Claude Code skills** for each stage live directly in this repo — one folder per topic, each with its own SKILL.md, references/, and README.md, following the pattern set by [product-thinking](https://github.com/ohanatais/product-thinking) and [brand-and-copy](https://github.com/ohanatais/brand-and-copy).
 
 - [`launch-strategy`](launch-strategy) — plan a launch as a campaign: channels (Bullseye), pre-launch, launch day, measurement
-- `first-users` — get your first 10 / 50 / 100 by hand, the unscalable way _(in progress)_
+- [`first-users`](first-users) — get your first 10 / 50 / 100 by hand, the unscalable way
 
 ---
 
@@ -70,7 +70,7 @@ The best launches are built over weeks or months before the product is ready —
 |---|---|
 | Launch strategy | ✅ Skill available in [`launch-strategy`](launch-strategy) |
 | Channels | ✅ Covered within [`launch-strategy`](launch-strategy) (Bullseye framework) |
-| First users | 🔄 In progress |
+| First users | ✅ Skill available in [`first-users`](first-users) |
 
 ---
 
