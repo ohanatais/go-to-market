@@ -1,0 +1,14 @@
+{
+  "name": "go-to-market",
+  "owner": {
+    "name": "Ohana Taís"
+  },
+  "plugins": [
+    {
+      "name": "go-to-market",
+      "source": "./",
+      "description": "Go-to-market skills for solo builders — launch strategy and getting your first users by hand.",
+      "version": "0.1.0"
+    }
+  ]
+}
