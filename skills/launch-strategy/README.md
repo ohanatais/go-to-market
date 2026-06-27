@@ -71,7 +71,7 @@ It also triggers on natural phrasing — "how do I launch", "should I do Product
 
 ## The relationship to the rest
 
-Launch-strategy plans the *campaign and channels*. Its companion [`first-users`](../first-users) works the *manual, unscalable* acquisition of the earliest handful of users underneath it. Write the launch assets with [`product-copy`](https://github.com/ohanatais/brand-and-copy), and aim the whole thing using your [`positioning`](https://github.com/ohanatais/product-thinking).
+Launch-strategy plans the *campaign and channels*. Its companion [`first-users`](../first-users) works the *manual, unscalable* acquisition of the earliest handful of users underneath it. Write the launch assets with [`product-copy`](https://github.com/ohanatais/brand-and-copy), and aim the whole thing using your [`positioning`](https://github.com/ohanatais/product-discovery).
 
 ---
 

@@ -17,7 +17,7 @@ description: >
 
   Do NOT use for: planning the launch campaign and channels (use /launch-strategy — this is its
   companion, the manual work underneath it); validating whether an idea is worth building
-  before building it (use /personas or idea validation in product-thinking); or writing the
+  before building it (use /personas or idea validation in product-discovery); or writing the
   outreach copy and landing page (use /product-copy). This skill is the hands-on acquisition
   and activation of the earliest real users.
 ---
